@@ -1,0 +1,51 @@
+/* p{
+    color: red;
+} */
+
+#habbit{
+    color: blue;
+}
+
+.head{
+    color: green;
+}
+
+.head-title{
+    border: 2px solid red;
+    text-align: center;
+    width: 100px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.habbit1{
+    border: 5px dashed blue;
+    font-size: 15;
+    font-weight: 100;
+    color: gold;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+.author{
+    border: 10px outset purple;
+    text-align: right;
+    font-size: 30;
+    color: gold;
+    margin: 100px;
+}
+
+.movie{
+    border: 20px double violet;
+    margin: 100px;
+}
